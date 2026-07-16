@@ -1,6 +1,6 @@
 # MOKT: Morphology--Omics Knowledge Transfer
 
-![Graphical abstract](contribution.pdf) 
+![Graphical abstract](contribution.png) 
 
 - - -
 
