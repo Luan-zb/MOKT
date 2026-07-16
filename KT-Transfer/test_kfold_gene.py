@@ -49,9 +49,7 @@ def main():
     DEVICE = torch.device(args.device)
     HIDDEN_DIM = 512
 
-    # ====== Paths & Settings (Align with train_kfold_gene.py) ======
-    # base_dir = "/data/ruiyan/lhj/TRIDENT/BALANCED_WSI_FEATURES"
-    # student_name = "titan"
+ 
     base_dir = args.base_dir
     label_file = args.label_file
     student_name = args.student_name
