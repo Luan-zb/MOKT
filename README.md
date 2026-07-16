@@ -27,7 +27,7 @@
 
 *  `test_k_fold_random.py`：Testing the SuRe-Transformer model.
 
-![Graphical abstract](overview.png) 
+![Graphical abstract](overview.pdf) 
 
 
 
